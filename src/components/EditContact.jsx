@@ -101,4 +101,4 @@ const EditContact = () => {
   )
 }
 
-export default EditContact
+export default EditContact;
